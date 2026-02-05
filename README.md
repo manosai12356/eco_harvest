@@ -32,4 +32,4 @@ Scan the QR code on an organic product to view verified farming and supply chain
 - Manogna
 
 ## License
-This project is developed for academic and educational purpos
+This project is developed for academic and educational purpose
